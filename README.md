@@ -1,11 +1,15 @@
 # Mandor.nvim
 
-Mandor - is your friend if you want to write simple notes, do a speed-noting on your math lecture, or write a complex scientific, professional grade papers for your journal. Its **main** purpose is to make your life **easier**, and not otherwise. It won't introduce you to new philosophy of notes taking, or make you use rare file formats.
+***ATTENTION!*** This project is just an empty repository for now. I will push source code when decide it is ready for the first release.
+
+---
+
+Mandor - is your friend if you want to write simple notes, do speed-noting on your math lecture, or write professional grade science papers for your journal. Its **main** purpose is to make your life **easier**, and not otherwise. It won't introduce you to new philosophy of notes taking, or make you use rare file formats.
 
 I do this project for my personal needs, but hope other people will find it useful as well.
 
-Things I need this project to do:
- - [ ] **Lua fan:** Mandor must be written in lua
+*Fancy way of saying what this project will do*
+ - [ ] Must be written in lua
  - [ ] **Markdown it:** write all your notes in Mandor's flavored markdown, but it must be easily converted to pure markdown, GitHub-flavored and Obsidian-flavored, (and other?) in a single command. **Must be *vice versa*!**
  - [ ] **Unleash power of LaTeX:** use LaTeX to render clean and beautiful documents. Rerender the note for a fast preview or compile the whole project in with simple commands.
  - [ ] **One command to rule them all:** Manage all your Mandors projects and their notes with bunch of commands, no more manual `rm`, `mv`, `cp`, etc.
